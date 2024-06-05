@@ -15,7 +15,7 @@ permissions:
 
 env:
   GIT_USER_EMAIL: yungfemo200@gmail.com  
-  GIT_USER_NAME: yungfemo200
+  GIT_USER_NAME: yungfemo
 
 jobs:
   ethereum_auto_commit:
